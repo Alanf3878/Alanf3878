@@ -1,5 +1,6 @@
 ### Olá Bem-vindo ao meu perfil👋😉
 
+aprendendo cada dia 🏃‍♀️
 <!--
 **Alanf3878/Alanf3878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
